@@ -140,4 +140,5 @@ elseif id == STEAL_PLACEID_MAIN or id == STEAL_PLACEID_NEW then
 
 else
     fastLoad(universalUrl)
+
 end
