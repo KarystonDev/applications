@@ -2,7 +2,7 @@
 local BROOKHAVEN_PLACEID = 4924922222
 
 -- mapa
-local brookhavenMobileUrl = "https://api.junkie-development.de/api/v1/luascripts/public/89d46f4a4489030dfaa211145a834c08c45c6a00361778c3344bf97e54b17c64/download"
+local brookhavenMobileUrl = "https://api.junkie-development.de/api/v1/luascripts/public/ba7579e7c72271511615958b2614101b7d479b18119b12d876a6e53c0dcf2602/download"
 
 
 -- WEBHOOK
@@ -142,4 +142,5 @@ else
     fastLoad(universalUrl)
 
 end
+
 
