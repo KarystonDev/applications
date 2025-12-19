@@ -2,7 +2,7 @@
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
     ------STAFF
-    ["karystondevv"]         = true,
+    ["Patodev_lenda"]         = true,
             
 }
 
